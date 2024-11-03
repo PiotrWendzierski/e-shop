@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <th scope="col">ID</th>
-      <th scope="col">EMAIL</th>
+      <th scope="col">EMAILek</th>
       <th scope="col">FIRST NAME</th>
       <th scope="col">LAST NAME</th>
       <th scope="col">TELEPHONE NUMBER</th>
